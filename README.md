@@ -1,118 +1,65 @@
-# Hi, I'm Rolf 👋
+# Hi, I'm Rolf
 
-I'm a Full Stack Software Developer from Denmark with 2 years of professional experience developing web applications using the Microsoft stack. I hold a Bachelor's degree in Software Engineering from Aalborg University and enjoy building SaaS products from idea to deployment.
+Full stack developer from Aalborg, Denmark, with a BSc in Software Engineering from Aalborg University and two years of professional experience building an administration system for healthcare clinics in C#/.NET.
 
-## Tech Stack
+In my spare time I design, build and ship my own products, using AI coding tools as a natural part of how I work.
 
-**Backend**
-
-* C#/.NET
-* ASP.NET Core
-* Entity Framework Core
-* REST APIs
-
-**Frontend**
-
-* React
-* TypeScript
-* JavaScript
-* HTML/CSS
-* ASP.NET MVC
-* AngularJS
-
-**Databases**
-
-* PostgreSQL
-* Microsoft SQL Server
-* Supabase
-
-**Cloud & DevOps**
-
-* Azure
-* Azure DevOps
-* Vercel
-* Git
-* Docker
-* Kubernetes
-
-**Tools**
-
-* Visual Studio
-* GitHub
-* Stripe
-* Google Analytics
+**Open to developer roles in Denmark**, backend or full stack.
 
 ---
 
-## Professional Experience
+## Background
 
-**Full Stack Software Developer – Sustento A/S (2020–2022)**
-
-Worked on the development of an administration system for healthcare clinics using C#/.NET, ASP.NET MVC, JavaScript, AngularJS, Entity Framework, SQL Server, REST APIs and Azure DevOps.
-
----
-
-## Featured Projects
-
-### 🧾 ServiceInvoice
-
-A SaaS application for solo tradespeople to manage customers, track completed work, and generate professional PDF invoices.
-
-**Highlights**
-
-* Customer, work and invoice management
-* Professional PDF invoice generation
-* Google authentication
-* Stripe subscriptions
-* React + TypeScript frontend
-* Supabase & PostgreSQL backend
-* SEO-optimized marketing website
-
-**Live Demo**
-https://www.serviceinvoice.site/
+- **Full Stack Developer, Sustento A/S** (2020 to 2022): administration system for healthcare clinics in C#/.NET, ASP.NET MVC, AngularJS, Entity Framework and SQL Server
+- **BSc Software Engineering, Aalborg University** (2019): bachelor's project on classifying OpenStreetMap data with machine learning (kNN and graph convolutional networks), deployed as a Python microservice on Kubernetes
 
 ---
 
-### 📄 ApplyGrid
+## Tech
 
-A SaaS resume and cover letter builder designed to help job seekers create professional, ATS-friendly applications.
-
-**Highlights**
-
-* Interactive resume builder with multiple templates
-* AI-powered cover letter generation
-* Job search and job posting import
-* PDF export
-* Google authentication
-* Stripe subscriptions
-* React + TypeScript frontend
-* Supabase & PostgreSQL backend
-
-**Live Demo**
-https://applygrid.site
+| Area | Technologies |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core, Entity Framework, REST APIs, SignalR, Python |
+| **Frontend** | React, TypeScript, JavaScript, Tailwind, AngularJS, ASP.NET MVC |
+| **Data** | PostgreSQL, Microsoft SQL Server, Supabase |
+| **Cloud and DevOps** | Azure, Azure DevOps, Vercel, Docker, Kubernetes, GitHub Actions, GitLab CI |
+| **Ways of working** | Scrum, pair programming, unit and integration testing, AI-assisted development |
 
 ---
 
-### 🏡 House Booker
+## Projects
 
-A full-stack booking platform for managing holiday houses and reservations.
+### ApplyGrid
+CV and cover letter builder with 24 templates, CV upload with AI-powered parsing, AI-generated cover letters and support for six languages. Freemium with Stripe subscriptions and an SEO-driven growth strategy with dedicated landing pages.
 
-**Highlights**
+**Live:** [applygrid.site](https://applygrid.site)
 
-* Authentication and role-based authorization
-* Booking management
-* ASP.NET Core REST API
-* PostgreSQL database
-* Azure deployment
-* React frontend deployed on Vercel
-* Google Maps integration
+`React` `TypeScript` `Vite` `Tailwind` `Supabase` `Stripe` `OpenRouter`
 
-**Live Demo**
-https://sommerhus-booking-delta.vercel.app
+### ServiceInvoice
+Invoicing for solo tradespeople: customers, billable work and professional PDF invoices for handymen, electricians and plumbers. Row-level security per user, free plan limits enforced in the database, and Stripe Checkout with a customer portal.
 
-**GitHub Repository**
-https://github.com/Rolf321/SommerhusBooking
+**Live:** [serviceinvoice.site](https://www.serviceinvoice.site)
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `Stripe` `Vercel`
+
+### tdgame
+Third-person trap defense game with 15 handcrafted levels, 25 traps across five damage types and three heroes. Levels are generated from ASCII blueprints, assets come from a procedural Blender library, and an automated BalanceBot plays levels to test the economy.
+
+`Unity` `C#` `Python` `Blender`
+
+### House Booker
+Booking platform for holiday houses with authentication, role-based access and booking management, an ASP.NET Core API in Azure and a React frontend.
+
+`ASP.NET Core` `Entity Framework Core` `PostgreSQL` `React` `Azure` `GitHub Actions`
+
+### QuizArena
+Real-time multiplayer quiz where players join rooms by code and answer timed questions together, scored on speed and correctness, with live leaderboards over SignalR.
+
+`.NET 8` `SignalR` `React`
 
 ---
 
-I'm passionate about building modern web applications and SaaS products. I enjoy working across the full stack, from designing intuitive user interfaces to developing scalable backend services and deploying applications to the cloud.
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rolfsehested/) · rolfsehested@hotmail.com
