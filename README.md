@@ -62,4 +62,4 @@ Real-time multiplayer quiz where players join rooms by code and answer timed que
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/rolfsehested/) · rolfsehested@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/rolfsehested/) · rolfsehested@hotmail.com · +45 23885733
